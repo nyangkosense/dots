@@ -1,1 +1,4 @@
-#### dotfiles as seen in https://www.reddit.com/r/unixporn/comments/1g5owkm/sowm_lean/
+#### dotfiles
+
+
+![rice](https://github.com/user-attachments/assets/2c862e48-e6cc-4f34-9f82-7b06dbe466dc)
